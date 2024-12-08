@@ -1,0 +1,10 @@
+#india-map path {
+    
+    transition: fill 0.3s ease;
+}
+
+#india-map path:hover {
+    fill:  #717d7e; /* Highlight on hover */
+    cursor: pointer;
+}
+
